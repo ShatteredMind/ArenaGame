@@ -1,0 +1,22 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\CameraManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\CameraManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\CameraManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\CameraManager\obj\x86\Debug\CameraManager.pdb
