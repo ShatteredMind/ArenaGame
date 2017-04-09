@@ -1,0 +1,8 @@
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\Player.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\Player.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\Player.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\Player.pdb

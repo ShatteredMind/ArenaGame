@@ -1,0 +1,52 @@
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\Player\obj\x86\Debug\PlayerManager.pdb
