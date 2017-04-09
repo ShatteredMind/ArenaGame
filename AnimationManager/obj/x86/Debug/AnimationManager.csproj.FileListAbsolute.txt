@@ -1,0 +1,21 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\AnimationManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ArenaGame\AnimationManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\AnimationManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\AnimationManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\AnimationManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\AnimationManager\obj\x86\Debug\AnimationManager.pdb
