@@ -1,0 +1,238 @@
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.exe
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.exe
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile1.xnb
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile2.xnb
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\mage.xnb
+c:\users\alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\12.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\walking.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\potion.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\clouds.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile3.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Enemy.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\vivi.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\1234.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\56.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\skybr.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\bp.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile4.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\idle.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\cast.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\backgrounds\background0.xnb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile2.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\mage.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\12.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\potion.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\clouds.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile3.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\walking.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile1.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\vivi.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\1234.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\56.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\skybr.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\bp.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile4.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\cast.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\idle.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\backgrounds\background0.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\exit.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\options.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\play.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\layer1.xnb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.exe
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.exe
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile2.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\mage.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\12.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\clouds.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile3.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\walking.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile1.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\vivi.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\1234.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\56.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\skybr.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\bp.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\cast.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\idle.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\backgrounds\background0.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\exit.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\options.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\layer1.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.exe
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.exe
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\layer2.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\back.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\loadscreen.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\healthbarsmall.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\death.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\UIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost_rip.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\knockback.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost_attack.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost_walking.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ogre_walking.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ogre_attack.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\bottle1.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Back.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\BG.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Exit.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Fullscreen.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Mute.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Options.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Start.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ogre_death.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menutheme.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\battletheme.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menutheme.wma
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\battletheme.wma
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\int.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\frostbolt.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\OKBUTTON.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\PAUSE.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\boss\bossAttack.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\boss\bossFireball.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\boss\bossIdle.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\text.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile5.xnb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile6.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\mage.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\12.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\clouds.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile3.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\walking.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile1.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\vivi.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\1234.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\56.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\skybr.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\bp.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\idle.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\backgrounds\background0.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\exit.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\options.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\layer1.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\layer2.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\back.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\cast.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\loadscreen.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\healthbarsmall.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\death.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\knockback.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost_rip.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost_walking.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ogre_walking.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ogre_attack.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ghost_attack.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Back.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Exit.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Fullscreen.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Mute.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Options.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\Start.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\ogre_death.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\bottle1.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\OKBUTTON.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\PAUSE.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\int.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\boss\bossAttack.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\boss\bossFireball.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\boss\bossIdle.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\frostbolt.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile2.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\fireball.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menu\BG.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile5.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\Tile6.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menutheme.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\battletheme.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\text.xnb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\menutheme.wma
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\Content\battletheme.wma
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.exe
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ArenaGame.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\UIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.exe
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\ArenaGame\obj\x86\Debug\ArenaGame.pdb
