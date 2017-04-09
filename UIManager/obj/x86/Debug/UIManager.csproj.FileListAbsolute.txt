@@ -1,0 +1,16 @@
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\UIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\UIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\UIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\UIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\UIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\UIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\UIManager\obj\x86\Debug\UIManager.pdb
