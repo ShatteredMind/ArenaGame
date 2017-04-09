@@ -1,0 +1,66 @@
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\WindowsGameLibrary1\WindowsGameLibrary1\obj\x86\Debug\AIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\WindowsGameLibrary1\WindowsGameLibrary1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\WindowsGameLibrary1\WindowsGameLibrary1\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\WindowsGameLibrary1\WindowsGameLibrary1\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\WindowsGameLibrary1\WindowsGameLibrary1\obj\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\WindowsGameLibrary1\WindowsGameLibrary1\obj\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Visual Studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ArenaGame\AIManager\obj\x86\Debug\AIManager.pdb
