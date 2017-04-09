@@ -1,0 +1,12 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ObjectPool\bin\Debug\ObjectPool.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ObjectPool\bin\Debug\ObjectPool.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ObjectPool\obj\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\ObjectPool\obj\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ObjectPool\bin\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ObjectPool\bin\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ObjectPool\obj\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\ObjectPool\obj\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ObjectPool\bin\Debug\ObjectPool.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ObjectPool\bin\Debug\ObjectPool.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ObjectPool\obj\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\ObjectPool\obj\x86\Debug\ObjectPool.pdb
