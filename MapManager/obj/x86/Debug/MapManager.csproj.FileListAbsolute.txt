@@ -1,0 +1,50 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\MapManager\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\MapManager\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\MapManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\MapManager\obj\x86\Debug\MapManager.dll
+C:\Users\Alexander\documents\visual studio 2010\Projects\ArenaGame\MapManager\obj\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\MapManager\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\MapManager\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\ArenaGame\MapManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\ArenaGame\MapManager\obj\x86\Debug\MapManager.dll
+C:\Users\Alexander\Desktop\ArenaGame\MapManager\obj\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\MapManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\MapManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\UIManager.dll
+C:\Users\Alexander\Desktop\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\MapManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\MapManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CameraManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CollisionHelper.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\ObjectPool.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\PlayerManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\UIManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AnimationManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CollisionHelper.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\PlayerManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\CameraManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\ObjectPool.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\UIManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\bin\x86\Debug\AnimationManager.pdb
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\MapManager.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\MapManager.dll
+C:\Users\Alexander\Documents\Быдлокодинг\ArenaGame\MapManager\obj\x86\Debug\MapManager.pdb
